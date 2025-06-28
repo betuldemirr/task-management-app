@@ -1,9 +1,3 @@
-## used npm
-npm i uuid \
-npm i react-beautiful-dnd \
-npm i react-bootstrap
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
